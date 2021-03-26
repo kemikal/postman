@@ -15,7 +15,7 @@ router.get('/', function(req, res, next) {
 
       const users = JSON.parse(data)
 
-      res.send("Alla users")
+      res.send(users)
       return;
     });
 });
