@@ -1,0 +1,14 @@
+[
+  {
+    "userName": "Herbert",
+    "userEmail": "herbert@mail.com"
+  },
+  {
+    "userName": "Janne Kemi",
+    "userEmail": "janne@mail.com"
+  },
+  {
+    "userName": "Pelle Karlsson",
+    "userEmail": "pelle@mail.com"
+  }
+]
